@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheAKSHAYY
 - 👀 I’m interested in ... LEARNING NEW THINGS
-- 🌱 I’m currently learning ... PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... c , kotlin, html , js , css 
+  
 - 📫 How to reach me ... akshay.sharma.ob22@gmail.com
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
