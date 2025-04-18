@@ -5,7 +5,8 @@
 - 📫 How to reach me ... akshay.sharma.ob22@gmail.com
 - 😄 Pronouns: i am / great 
 - ⚡ Fun fact:   i love to  do anything except study .
-- 
+- linkdin profile
+ https://www.linkedin.com/in/akshay-sharma-188961322/
 
 <!---
 TheAKSHAYY/TheAKSHAYY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
