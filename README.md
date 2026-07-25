@@ -57,6 +57,3 @@ I enjoy chess, connect deeply with music, and I'm fascinated by stories that ble
 
 
 
-
-
-iski jagha kya hona chiye jaise ki mere bare me tumhe kafi pata ha i
