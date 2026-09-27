@@ -1,94 +1,63 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=AKSHAY%20SHARMA&fontColor=C1121F&fontSize=54&fontAlign=50&fontAlignY=38&desc=A%20Film%20by%20Akshay&descAlign=50&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%" />
-</p>
+<h1 align="center">A K S H A Y &nbsp; S H A R M A</h1>
+<p align="center"><sub>same hustle. different story.</sub></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GENRE-Tech%20%2F%20Coming--of--Age-000000?style=for-the-badge&labelColor=000000&color=C1121F" />
-  <img src="https://img.shields.io/badge/RUNTIME-Ongoing-000000?style=for-the-badge&labelColor=000000&color=C1121F" />
-  <img src="https://img.shields.io/badge/STATUS-Now%20Showing-000000?style=for-the-badge&labelColor=000000&color=C1121F" />
-</p>
+<p align="center">✦ ✦ ✦</p>
 
 <p align="center"><i>"A better version of me is always in progress."</i></p>
 
----
+<br>
 
-## 🎬 SCENE I — ORIGIN
+### About
 
-> **INT. MJPRU CAMPUS — PRESENT DAY**
->
-> A 5th-semester BCA student sits at a desk cluttered with half-finished projects and open terminal tabs. He isn't chasing a role — he's chasing the version of himself that ships. Java is his native tongue, DSA is the training montage, and cybersecurity is the subplot he can't stop reading about.
->
-> **GOAL:** Become a skilled, independent software developer.
-> **CURRENTLY WORKING ON:** Strengthening DSA, building sharper projects.
+BCA student, 5th semester, MJPRU. Building real software, one project at a time — Java is home base, DSA is the daily grind, cybersecurity is the thing I read about at 1am.
 
----
+- Working on — strengthening DSA, shipping better projects
+- Learning — Java · DSA · cybersecurity fundamentals
+- Aiming for — independent, job-ready developer
 
-## 🎭 SCENE II — THE CAST
+<br>
 
-**Leads**
+### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=C1121F" />
-  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=C1121F" />
-  <img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=html5&logoColor=C1121F" />
-  <img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=C1121F" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=C1121F" />
+  <img src="https://img.shields.io/badge/-JAVA-1a1a1a?style=flat-square&logo=openjdk&logoColor=C08552" />
+  <img src="https://img.shields.io/badge/-DSA-1a1a1a?style=flat-square&logo=leetcode&logoColor=C08552" />
+  <img src="https://img.shields.io/badge/-WEB-1a1a1a?style=flat-square&logo=html5&logoColor=C08552" />
+  <img src="https://img.shields.io/badge/-ANDROID-1a1a1a?style=flat-square&logo=android&logoColor=C08552" />
+  <img src="https://img.shields.io/badge/-SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=C08552" />
 </p>
-
-**Supporting Cast**
-
 <p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=d4d4d4" />
+  <img src="https://img.shields.io/badge/-GitHub-1a1a1a?style=flat-square&logo=github&logoColor=d4d4d4" />
+  <img src="https://img.shields.io/badge/-VS%20Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=d4d4d4" />
+  <img src="https://img.shields.io/badge/-Linux-1a1a1a?style=flat-square&logo=linux&logoColor=d4d4d4" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-1a1a1a?style=flat-square&logo=hackthebox&logoColor=C08552" />
 </p>
 
-**The Antagonist** *(the one he's studying to understand)*
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=C1121F" />
-</p>
+### Projects
 
----
+**Volunteer Management System** — web app to manage volunteer registrations and tasks
+**Portfolio Website** — personal portfolio showcasing my work and skills
+**Quiz Website** — interactive quiz platform, HTML / CSS / JS
 
-## 🔫 SCENE III — THE ARSENAL
+<br>
 
-*Every good film needs its set pieces. Here are his.*
-
-| Feature | Logline |
-|---|---|
-| 🙋 **Volunteer Management System** | A web app that turns registration chaos into an organized crew |
-| 🌐 **Portfolio Website** | The trailer for everything else he's building |
-| 🧠 **Quiz Website** | An interactive quiz platform, built with HTML, CSS & JS |
-
----
-
-## 📈 SCENE IV — BOX OFFICE NUMBERS
+### Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAKSHAYY&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C1121F&text_color=FFFFFF&icon_color=C1121F" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAKSHAYY&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C1121F&text_color=FFFFFF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheAKSHAYY&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=C08552&text_color=d4d4d4&icon_color=C08552" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAKSHAYY&layout=compact&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=C08552&text_color=d4d4d4" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAKSHAYY&hide_border=true&background=0D0D0D&ring=C1121F&fire=C1121F&currStreakLabel=C1121F" />
-</p>
+<br>
 
----
-
-## 🎞️ SCENE V — CREDITS
+<p align="center">✦ ✦ ✦</p>
 
 <p align="center">
-  📍 India &nbsp;|&nbsp; 📫 <a href="mailto:akshay.sharma.ob22@gmail.com">akshay.sharma.ob22@gmail.com</a> &nbsp;|&nbsp;
+  📍 India &nbsp; · &nbsp; 📫 <a href="mailto:akshay.sharma.ob22@gmail.com">akshay.sharma.ob22@gmail.com</a> &nbsp; · &nbsp;
   <a href="#">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=90&text=GOOD%20CODE.%20BETTER%20LIFE.&fontColor=C1121F&fontSize=22&fontAlign=50&fontAlignY=55" width="100%" />
-</p>
-
-<p align="center">DIRECTED, WRITTEN & DEBUGGED BY AKSHAY SHARMA &nbsp;•&nbsp; EST. 2006</p>
-
-<!-- 🎬 POST-CREDITS SCENE -->
-<p align="center"><sub>He enjoys chess, connects deeply with music, and is drawn to stories that blend psychology with action — <i>Interstellar</i> and <i>Fight Club</i> top the watchlist. Roll credits.</sub></p>
+<p align="center"><sub>chess · music · stories that mix psychology with action — Interstellar, Fight Club</sub></p>
