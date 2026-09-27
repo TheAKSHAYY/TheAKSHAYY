@@ -19,20 +19,11 @@ BCA student, 5th semester, MJPRU. Building real software, one project at a time 
 
 ### Stack
 
-<p>
-  <img src="https://img.shields.io/badge/-JAVA-1a1a1a?style=flat-square&logo=openjdk&logoColor=C08552" />
-  <img src="https://img.shields.io/badge/-DSA-1a1a1a?style=flat-square&logo=leetcode&logoColor=C08552" />
-  <img src="https://img.shields.io/badge/-WEB-1a1a1a?style=flat-square&logo=html5&logoColor=C08552" />
-  <img src="https://img.shields.io/badge/-ANDROID-1a1a1a?style=flat-square&logo=android&logoColor=C08552" />
-  <img src="https://img.shields.io/badge/-SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=C08552" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,postgres,git,github,vscode,linux&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=d4d4d4" />
-  <img src="https://img.shields.io/badge/-GitHub-1a1a1a?style=flat-square&logo=github&logoColor=d4d4d4" />
-  <img src="https://img.shields.io/badge/-VS%20Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=d4d4d4" />
-  <img src="https://img.shields.io/badge/-Linux-1a1a1a?style=flat-square&logo=linux&logoColor=d4d4d4" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-1a1a1a?style=flat-square&logo=hackthebox&logoColor=C08552" />
-</p>
+
+<p align="center"><sub>+ security fundamentals, picked up outside the classroom</sub></p>
 
 <br>
 
