@@ -29,8 +29,8 @@ BCA student, 5th semester, MJPRU. Building real software, one project at a time 
 
 ### Projects
 
-**Volunteer Management System** — web app to manage volunteer registrations and tasks
-**Portfolio Website** — personal portfolio showcasing my work and skills
+**Volunteer Management System** — web app to manage volunteer registrations and tasks  
+**Portfolio Website** — personal portfolio showcasing my work and skills  
 **Quiz Website** — interactive quiz platform, HTML / CSS / JS
 
 <br>
